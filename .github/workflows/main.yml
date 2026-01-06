@@ -1,4 +1,4 @@
-name: Java + Javascript CI #continous integration
+name: Java + Javascript CI #continuous integration
 
 on:
   push:

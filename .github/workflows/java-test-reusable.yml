@@ -14,7 +14,8 @@ jobs:
         with:
           java-version: '21'
           distribution: 'temurin'
-      ##Add cacheing
+
+      ##Add caching
       - uses: actions/cache@v4
         with:
           path: ~/.m2/repository
